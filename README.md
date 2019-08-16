@@ -1,5 +1,5 @@
 # DOM-Tasks
 
-Simple dom exercise
+Simple dom exercises
 
 Clone/fork -> run solution.js
