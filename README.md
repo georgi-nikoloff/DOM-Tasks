@@ -2,4 +2,4 @@
 
 Simple dom exercises
 
-Clone/fork -> run solution.js
+Clone/fork -> run template.html
