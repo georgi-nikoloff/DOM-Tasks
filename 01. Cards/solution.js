@@ -1,5 +1,5 @@
 function solve() {
-   /*Working fine till card exists in both decks, still 100/100 */
+  
    let playerOneDeck = {}
    let playerTwoDeck = {}
    let allCards = document.querySelectorAll('.cards img')
