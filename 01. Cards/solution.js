@@ -1,5 +1,5 @@
 function solve() {
-  
+  //First DOM Task
    let playerOneDeck = {}
    let playerTwoDeck = {}
    let allCards = document.querySelectorAll('.cards img')
