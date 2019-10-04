@@ -1,9 +1,8 @@
-const binOrHex = {
-    'binary': 2,
-    'hexadecimal': 16
-}
 function solve() {
-
+    const binOrHex = {
+        'binary': 2,
+        'hexadecimal': 16
+    }
     const insertOptions = document.getElementById("selectMenuTo")
     const binary = document.createElement("option")
     const hex = document.createElement("option")
