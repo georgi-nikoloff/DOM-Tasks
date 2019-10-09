@@ -5,9 +5,9 @@ function solve() {
    let allCards = document.querySelectorAll('.cards img')
    const winner = '2px solid green'
    const loser = '2px solid red'
-   let player1Cards = document.querySelectorAll('.cards #player1Div img')
-   let player2Cards = document.querySelectorAll('.cards #player2Div img')
-   let spans = document.querySelectorAll('#result span')
+   const player1Cards = document.querySelectorAll('.cards #player1Div img')
+   const player2Cards = document.querySelectorAll('.cards #player2Div img')
+   const spans = document.querySelectorAll('#result span')
    let firstPlayerSpan = spans[0]
    let secondPlayerSpan = spans[2]
    for (let i = 0; i < player1Cards.length; i++) {          //Filling player 1 deck with cards 
